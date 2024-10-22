@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "207046374141",
+    "project_id": "colorpicker-ab3f2",
+    "storage_bucket": "colorpicker-ab3f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207046374141:android:df7da8621ad3d6f0900494",
+        "android_client_info": {
+          "package_name": "com.example.colorpickerproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClcDZDdvvVkW2ffUiTqWNNwzAbLS_NRaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
